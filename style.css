@@ -6,7 +6,7 @@ body {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	font-family: 'Lobster', cursive;
+	font-family: 'Barlow Condensed', sans-serif;
 }
 
 h1 {
@@ -18,13 +18,13 @@ h1 {
 
 h2 {
 	color: white;
-	font-size: 18px;
+	font-size: 22px;
 	margin-top: 0;
 }
 
 .Bio {
 	color: white;
-	font-size: 14px;
+	font-size: 18px;
 }
 
 .me{
@@ -48,4 +48,20 @@ h2 {
 	background-color: #7e8485;
 	border: none;
 	width: 50px;
+}
+
+
+.photocredit {
+	width: 200px;
+	margin-left: auto;
+	margin-bottom: auto;
+}
+
+.tableStyle {
+	color: white;
+	font-size: 20px
+}
+
+td {
+	padding: 18px;
 }
