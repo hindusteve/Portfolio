@@ -93,6 +93,15 @@ h3 {
 	margin-top: 80px;
 }
 
+.codebox {
+	float: left;
+	margin-left: 5%;
+	width: 42.5%;
+	margin-top: 80px;
+	height: 200px;
+	overflow-y: scroll;
+}
+
 .clear{
 	clear: both;
 }
